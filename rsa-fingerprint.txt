@@ -1,0 +1,6 @@
+---
+layout: none
+permalink: .well-known/tor-relay/rsa-fingerprint.txt
+---
+
+Does it work!
